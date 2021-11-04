@@ -26,10 +26,12 @@
 ***
 ### Proyectos
 
-Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](/https://github.com/lautaronahuelc?tab=repositories) :octocat:
+Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github.com/lautaronahuelc?tab=repositories) :octocat:
 
 ***
 
 ### Contactame por LinkedIn:
 
-[LinkedIn](https://www.linkedin.com/in/lautaronahuel/)
+[<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/lautaronahuel/
