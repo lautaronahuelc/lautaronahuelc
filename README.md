@@ -43,7 +43,7 @@ Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github
 
 ***
 
-### ¡Escribime!
+### ¡Trabajemos juntos!
 
 [<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="Lautaro Coria | Whatsapp" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][linkedin]
