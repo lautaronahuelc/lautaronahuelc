@@ -42,8 +42,10 @@ Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github
 
 ***
 
-### Contactame por LinkedIn:
+### ¡Escribime!
 
-[<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
+[<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="Lautaro Coria | Whatsapp" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/lautaronahuel/
+[whatsapp]: https://wa.me/1128816544
