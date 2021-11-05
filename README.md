@@ -51,4 +51,4 @@ Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github
 
 [linkedin]: https://www.linkedin.com/in/lautaronahuel/
 [whatsapp]: https://wa.me/1128816544
-[gmail]: https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1636071500~hmac=4b5cc33b65d5f20dcb6acaeb6fe6ab86
+[gmail]: mailto:lautaronahuel.coria@gmail.com
