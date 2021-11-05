@@ -1,4 +1,4 @@
-## ¡Hola, gracias por visitarme! 🙌
+# ¡Hola, gracias por visitarme! 🙌
 
 ![Gif de Pheobe y Rachel saltando de alegría](https://github.com/lautaronahuelc/lautaronahuelc/blob/main/gif-friends.gif)
 
