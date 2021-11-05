@@ -9,7 +9,6 @@
 * 🇦🇷 26 años
 * 💻 Estudiante Programador
 * 🎯 Mi meta hoy → Conseguir mi primer empleo IT 
-* 🎯 La que sigue → Ser mejor que ayer
 * 🎵 Una canción → [Calvin Harris, Sam Smith - Promises](https://www.youtube.com/watch?v=kkLk2XWMBf8) 
 * 📖 Un libro → [Crear o Morir - Andrés Oppenheimer](https://www.academia.edu/30862737/Crear_o_Morir_Oppenheimer) 
 * 📺 Una serie de TV → [Friends](https://www.imdb.com/title/tt0108778/) 
