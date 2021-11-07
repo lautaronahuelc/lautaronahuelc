@@ -40,6 +40,15 @@
 
 Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github.com/lautaronahuelc?tab=repositories) :octocat:
 
+👀 *¿Sos Recruiter?* Tal vez esto te sea de utilidad:
+* El enlace de arriba ⬆️ te va a llevar a un listado.
+* Cada artículo de la lista es un proyecto diferente. 
+* Básicamente, cada proyecto es un conjunto de carpetas que contiene código dentro. 
+* Otros desarrolladores pueden descargarlo, ejecutarlo y colaborar incluso en mi código. 
+* Pero no te enrolles con eso, para darte un pantallazo dentro de cada proyecto inserté debajo una breve descripción y una imagen para que tengas un acercamiento más visual.
+
+¡Ahora sí, GO! 🏃‍♂️ 🏃‍♀️
+
 ***
 
 ### ¡Trabajemos juntos!
