@@ -38,7 +38,7 @@
 ***
 ### Mirá lo que puedo hacer:
 
-Para ver mis trabajos ingresá a este enlace →  [Mis proyectos](https://github.com/lautaronahuelc?tab=repositories) :octocat:
+Para ver mis trabajos ingresá a este enlace →  [MIS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories) :octocat:
 
 👀 *¿Sos Recruiter?* Tal vez esto te sea de utilidad:
 * El enlace de arriba ⬆️ te va a llevar a un listado.
