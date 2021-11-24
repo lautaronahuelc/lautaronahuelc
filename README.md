@@ -55,7 +55,7 @@ Para ver mis trabajos ingresá a este enlace →  [MIS PROYECTOS](https://github
 
 [<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="Lautaro Coria | Whatsapp" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][whatsapp]
-[<img align="left" alt="lautaronahuel.coria@gmail.com | Gmail" width="24px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1636071500~hmac=4b5cc33b65d5f20dcb6acaeb6fe6ab86"/>][gmail]
+[<img align="left" alt="lautaronahuel.coria@gmail.com | Gmail" width="24px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637790484~hmac=40961f5adfac332aa42c4dd51b9c8416"/>][gmail]
 
 [linkedin]: https://www.linkedin.com/in/lautaronahuel/
 [whatsapp]: https://wa.me/1128816544
