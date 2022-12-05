@@ -8,7 +8,7 @@
 
 * Tengo 27 años
 * Vivo en Palermo, CABA
-* Trabajo como Analista Trainee en Arbusta SRL
+* Trabajo como Programador Frontend Trainee en Arbusta SRL
 * ✔️ Meta cumplida → Conseguir mi primer empleo IT
 * 🎯 Nueva meta → Alcanzar un nivel de inglés competente y trabajar en un proyecto internacional
 
@@ -17,8 +17,6 @@
 ### Estudios
 
 * **Ciencias de la Computación** en la [Facultad de Ciencias Naturales y Exactas](https://exactas.uba.ar/) (UBA).
-
-* Formo parte de la comunidad de [NUCBA](https://nucba.com.ar/) y me capacito en **Programación Full Stack**.
 
 * Estudio inglés en el [Instituto Universitario de Idiomas](https://cui.edu.ar/) (Level A2+).
 
