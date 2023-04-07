@@ -1,6 +1,7 @@
 # ¡Bienvenido/a! 🙌
 
 ![Gif de Pheobe y Rachel saltando de alegría](https://github.com/lautaronahuelc/lautaronahuelc/blob/main/gif-friends.gif)
+
 ***
 
 ### Sobre mí
