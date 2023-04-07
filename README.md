@@ -39,13 +39,15 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://lenguajecss.com/assets/logo.svg" />
+<img align="left" alt="CSS3" width="27px" src="https://lenguajecss.com/assets/logo.svg" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<img align="left" alt="ReactJS" title="ReactJS" width="26px" src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
+<img align="left" alt="NextJS" title="NextJS" width="27px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" />
+
+<img align="left" alt="Ant Design" title="Ant Design" width="27px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 <br/>
 
 ***
