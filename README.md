@@ -29,6 +29,10 @@
 
 <img align="left" alt="Slack" title="Slack" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" />
 
+<img align="left" alt="Jira Software" title="Jira SOftware" width="26px" src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:b544631f-b225-441b-9e05-57b7fd0d495b/Jira%20Software@2x-icon-blue.png" />
+
+<img align="left" alt="Jira Software" title="Jira SOftware" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
+
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" />
@@ -42,8 +46,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:b544631f-b225-441b-9e05-57b7fd0d495b/Jira%20Software@2x-icon-blue.png" />
 <br/>
 
 ***
