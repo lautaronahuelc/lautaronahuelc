@@ -23,7 +23,7 @@
 
 ***
 
-### Lenguajes y Herramientas que manejo
+### Skills
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -52,7 +52,7 @@
 
 ***
 
-### ¡Trabajemos juntos!
+### Contacto
 
 [<img align="left" title="/lautaronahuel" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" title="+541128816544" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][whatsapp]
