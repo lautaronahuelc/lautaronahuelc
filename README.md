@@ -6,19 +6,20 @@
 
 ### Sobre mí
 
-* Tengo 27 años
-* Vivo en Palermo, CABA
-* Trabajo como Programador Frontend Trainee en Arbusta SRL
-* ✔️ Meta cumplida → Conseguir mi primer empleo IT
-* 🎯 Nueva meta → Alcanzar un nivel de inglés competente y trabajar en un proyecto internacional
+* 27 años
+* Palermo, CABA
+* Programador Frontend Trainee en [Valtech SA](https://www.valtech.com/es-ar/) | Mar 2023 - Actualidad
+* +1 experiencia como Analista Trainee en [Arbusta SRL](https://arbusta.net/) | Feb 2022 - Mar 2023
+* ✔️ Meta cumplida → Primer empleo IT
+* 🎯 Nueva meta → Alcanzar un seniority Junior para este año y un nivel de inglés B1
 
 ***
 
 ### Estudios
 
-* **Ciencias de la Computación** en la [Facultad de Ciencias Naturales y Exactas](https://exactas.uba.ar/) (UBA).
+* Universitario incompleto
 
-* Estudio inglés en el [Instituto Universitario de Idiomas](https://cui.edu.ar/) (Level A2+).
+* Inglés en el [Instituto Universitario de Idiomas](https://cui.edu.ar/) | A2+
 
 ***
 
