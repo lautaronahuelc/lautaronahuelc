@@ -54,11 +54,11 @@
 
 ### ¡Trabajemos juntos!
 
-[<img align="left" alt="lautaronahuel | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="Lautaro Coria | Whatsapp" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][whatsapp]
-[<img align="left" alt="lautaronahuel.coria@gmail.com | Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][gmail]
+[<img align="left" title="/lautaronahuel" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" title="+541128816544" width="24px" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/>][whatsapp]
+[<img align="left" title="lautaronahuel.coria@gmail.com" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/lautaronahuel/
 [whatsapp]: https://wa.me/1128816544
-[gmail]: mailto:lautaro.coria@proton.me
+[gmail]: mailto:lautaronahuel.coria@gmail.com
